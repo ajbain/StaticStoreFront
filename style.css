@@ -1,0 +1,142 @@
+body{
+    object-fit: contain;
+    -webkit-background-size:100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%; 
+}
+.navWrapper{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: none;
+    padding-bottom: none;
+    
+
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+.upperLeftLogo{
+    text-align: left;
+    font-family: Meddon;
+    font-size: 1rem;
+    display: inline-block;
+    width:25%;
+    
+
+}
+.infoLinks{
+    text-align: center;
+    display:inline-block;
+    font-family:'Open Sans', sans-serif;
+    position: relative;
+    width: 52%;
+    font-size:1.5rem;
+    text-decoration: none;
+}
+.links{
+    padding: 0 1rem;
+}
+
+
+.shoppingCart{
+    text-align: right;
+    display: inline-block;
+    background-color: white;
+    color: black;
+    position: relative;
+    width: 22%;
+}
+.fas {
+    
+    font-size: 2rem;
+    padding: 0 1rem;
+}
+
+p {
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+}
+    
+
+
+    
+
+
+.headerPic{
+    background: url(https://images.unsplash.com/photo-1492105232359-ca132c09762c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) 75%;
+    height: 70vh;
+    width: 100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+   
+    
+
+}
+#titlePic{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    font-family: Meddon;
+    position: relative;
+    top: 210px;
+}
+.midsection h1{
+    text-align: center;
+    font-size:3rem;
+    font-family:'Open Sans', sans-serif;
+}
+.goodsMidPage{
+    display: inline-block;
+    margin: 0 0 0 2em;
+    
+    
+    width: 100%;
+    
+    
+
+}
+
+.saleItems{
+    
+    width: 100%;
+    
+}
+#satchel{
+    height:323px;
+}
+.picItems{
+    float: left;
+    position: relative;
+    width: 485px;
+    margin: 0 0 0 4rem;
+    padding: 1.0em;
+}
+
+footer {
+    height: 40px;
+    font-size: 1.2em;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+#menuFooter{
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 1em;
+    padding: none;
+
+}
+li{
+    display: inline-block;
+    padding: 0 2em 0 0;
+}
+
+
